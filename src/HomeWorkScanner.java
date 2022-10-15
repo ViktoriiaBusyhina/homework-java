@@ -24,4 +24,6 @@ public class HomeWorkScanner {
         else {
             System.out.println("пароль принят");}
         }
+        //Коментарий
+
     }
