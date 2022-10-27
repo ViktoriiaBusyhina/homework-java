@@ -21,8 +21,6 @@ public class HomeWorkDoWhile {
             x += x * p /100;
             System.out.println(x);
         }
-        k = k + x;
-        System.out.println(k);
         }
     }
 
